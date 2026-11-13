@@ -1,0 +1,6 @@
+Hello Akash!
+I am learning Python.
+This is my first file handling program.
+this is amazing
+you are great
+Akash
