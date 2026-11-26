@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Faiz Siddiqui, Pranshu Verma",
+      "title": "Trump’s push to restore Nvidia CEO could haunt the company in Congress - The Washington Post",
+      "description": "Democrats were preparing to investigate the chipmaker. The president’s extraordinary role in reinstating Jensen Huang as CEO has expanded the inquiry.",
+      "url": "https://www.washingtonpost.com/technology/2026/11/24/jensen-huangs-return-nvidia-puts-trump-under-new-congressional-scrutiny/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AMNVHZUJLMV7B2WSDBPE5HXS3I_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-24T16:03:17Z",
+      "content": "President Donald Trumps intervention to restore Jensen Huang as Nvidias chief executive has opened a new front in congressional investigations, putting both the president and the powerful tech execut… [+23 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Nvidia live updates: Nvidia stock falls as exuberance fades after Jensen Huang's return as CEO - Yahoo Finance",
+      "description": "Nvidia's (NVDA) board on Monday reinstated Jensen Huang as CEO and president of the chip giant.",
+      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bac2abd526954a4ec2b324d8f58a3974e289f568d76d3665205dc5445877d14f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2d37476a-152f-4da0-81ab-494fe1d60315",
+      "publishedAt": "2026-11-24T15:58:21Z",
+      "content": "Bernstein analysts were quick to upgrade Nvidia (NVDA) on Monday after the board unanimously reinstated Jensen Huang as CEO of the AI chipmaker, though Wall Street sees ongoing investigations as a li… [+1014 chars]"
+    },
