@@ -1,0 +1,22 @@
+s=set()
+print(type(s))
+a=input("Enter the number that should be added: ")
+s. add(int(a))
+a=input("Enter the number that should be added: ")
+s. add(int(a))
+a=input("Enter the number that should be added: ")
+s. add(int(a))
+a=input("Enter the number that should be added: ")
+s. add(int(a))
+a=input("Enter the number that should be added: ")
+s. add(int(a))
+a=input("Enter the number that should be added: ")
+s. add(int(a))
+a=input("Enter the number that should be added: ")
+s. add(int(a))
+a=input("Enter the number that should be added: ")
+s. add(int(a))
+
+
+
+print(s)
